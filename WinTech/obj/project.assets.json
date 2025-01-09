@@ -5223,11 +5223,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\owner\\Desktop\\WinTech\\WinTech\\WinTech.csproj",
+      "projectUniqueName": "C:\\Users\\owner\\Desktop\\פרויקט לאבוש\\Our-project\\WinTech\\WinTech.csproj",
       "projectName": "WinTech",
-      "projectPath": "C:\\Users\\owner\\Desktop\\WinTech\\WinTech\\WinTech.csproj",
+      "projectPath": "C:\\Users\\owner\\Desktop\\פרויקט לאבוש\\Our-project\\WinTech\\WinTech.csproj",
       "packagesPath": "C:\\Users\\owner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\owner\\Desktop\\WinTech\\WinTech\\obj\\",
+      "outputPath": "C:\\Users\\owner\\Desktop\\פרויקט לאבוש\\Our-project\\WinTech\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

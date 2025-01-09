@@ -39,7 +39,7 @@ public partial class הדפסה
 
     public DateTime? יצירתרשומה { get; set; }
 
-    public virtual הצעתמחירהזמנה הצמהזמנהNavigation { get; set; } = null!;
+    public virtual הצעת_מחיר_הזמנה הצמהזמנהNavigation { get; set; } = null!;
 
     public virtual ספקים ספקNavigation { get; set; } = null!;
 }

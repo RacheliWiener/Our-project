@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\owner\\Desktop\\WinTech\\UI\\UI.csproj": {}
+    "C:\\Users\\owner\\Desktop\\פרויקט לאבוש\\Our-project\\UI\\UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\owner\\Desktop\\WinTech\\BLL\\BLL.csproj": {
+    "C:\\Users\\owner\\Desktop\\פרויקט לאבוש\\Our-project\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\owner\\Desktop\\WinTech\\BLL\\BLL.csproj",
+        "projectUniqueName": "C:\\Users\\owner\\Desktop\\פרויקט לאבוש\\Our-project\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "C:\\Users\\owner\\Desktop\\WinTech\\BLL\\BLL.csproj",
+        "projectPath": "C:\\Users\\owner\\Desktop\\פרויקט לאבוש\\Our-project\\BLL\\BLL.csproj",
         "packagesPath": "C:\\Users\\owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\owner\\Desktop\\WinTech\\BLL\\obj\\",
+        "outputPath": "C:\\Users\\owner\\Desktop\\פרויקט לאבוש\\Our-project\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\owner\\Desktop\\WinTech\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\owner\\Desktop\\WinTech\\DAL\\DAL.csproj"
+              "C:\\Users\\owner\\Desktop\\פרויקט לאבוש\\Our-project\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\owner\\Desktop\\פרויקט לאבוש\\Our-project\\DAL\\DAL.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\owner\\Desktop\\WinTech\\DAL\\DAL.csproj": {
+    "C:\\Users\\owner\\Desktop\\פרויקט לאבוש\\Our-project\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\owner\\Desktop\\WinTech\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\owner\\Desktop\\פרויקט לאבוש\\Our-project\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\owner\\Desktop\\WinTech\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\owner\\Desktop\\פרויקט לאבוש\\Our-project\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\owner\\Desktop\\WinTech\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\owner\\Desktop\\פרויקט לאבוש\\Our-project\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -150,14 +150,14 @@
         }
       }
     },
-    "C:\\Users\\owner\\Desktop\\WinTech\\UI\\UI.csproj": {
+    "C:\\Users\\owner\\Desktop\\פרויקט לאבוש\\Our-project\\UI\\UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\owner\\Desktop\\WinTech\\UI\\UI.csproj",
+        "projectUniqueName": "C:\\Users\\owner\\Desktop\\פרויקט לאבוש\\Our-project\\UI\\UI.csproj",
         "projectName": "UI",
-        "projectPath": "C:\\Users\\owner\\Desktop\\WinTech\\UI\\UI.csproj",
+        "projectPath": "C:\\Users\\owner\\Desktop\\פרויקט לאבוש\\Our-project\\UI\\UI.csproj",
         "packagesPath": "C:\\Users\\owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\owner\\Desktop\\WinTech\\UI\\obj\\",
+        "outputPath": "C:\\Users\\owner\\Desktop\\פרויקט לאבוש\\Our-project\\UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -179,8 +179,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\owner\\Desktop\\WinTech\\BLL\\BLL.csproj": {
-                "projectPath": "C:\\Users\\owner\\Desktop\\WinTech\\BLL\\BLL.csproj"
+              "C:\\Users\\owner\\Desktop\\פרויקט לאבוש\\Our-project\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\owner\\Desktop\\פרויקט לאבוש\\Our-project\\BLL\\BLL.csproj"
               }
             }
           }

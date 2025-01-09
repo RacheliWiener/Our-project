@@ -9,21 +9,21 @@ public partial class ספקים
 
     public string? ספק { get; set; }
 
-    public virtual ICollection<אריזתקרטון> אריזתקרטוןs { get; set; } = new List<אריזתקרטון>();
+    public virtual ICollection<אריזת_קרטון> אריזתקרטוןs { get; set; } = new List<אריזת_קרטון>();
 
     public virtual ICollection<גלופות> גלופותs { get; set; } = new List<גלופות>();
 
-    public virtual ICollection<הדבקתפורזץ> הדבקתפורזץs { get; set; } = new List<הדבקתפורזץ>();
+    public virtual ICollection<הדבקת_פורזץ> הדבקתפורזץs { get; set; } = new List<הדבקת_פורזץ>();
 
     public virtual ICollection<הדפסה> הדפסהs { get; set; } = new List<הדפסה>();
 
     public virtual ICollection<הטבעה> הטבעהs { get; set; } = new List<הטבעה>();
 
-    public virtual ICollection<הכנתסטים> הכנתסטיםs { get; set; } = new List<הכנתסטים>();
+    public virtual ICollection<הכנת_סטים> הכנתסטיםs { get; set; } = new List<הכנת_סטים>();
 
     public virtual ICollection<השבחות> השבחותs { get; set; } = new List<השבחות>();
 
-    public virtual ICollection<ייצורכריכהקשה> ייצורכריכהקשהs { get; set; } = new List<ייצורכריכהקשה>();
+    public virtual ICollection<ייצור_כריכה_קשה> ייצורכריכהקשהs { get; set; } = new List<ייצור_כריכה_קשה>();
 
     public virtual ICollection<לוחות> לוחותs { get; set; } = new List<לוחות>();
 

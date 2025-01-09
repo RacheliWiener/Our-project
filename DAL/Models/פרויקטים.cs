@@ -23,7 +23,7 @@ public partial class פרויקטים
 
     public DateTime? תאריךיצירתרשומה { get; set; }
 
-    public virtual ICollection<הצעתמחירהזמנה> הצעתמחירהזמנהs { get; set; } = new List<הצעתמחירהזמנה>();
+    public virtual ICollection<הצעת_מחיר_הזמנה> הצעתמחירהזמנהs { get; set; } = new List<הצעת_מחיר_הזמנה>();
 
     public virtual לקוחות מזההלקוחNavigation { get; set; } = null!;
 }

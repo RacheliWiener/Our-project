@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\owner\\Desktop\\WinTech\\DAL\\DAL.csproj": {}
+    "C:\\Users\\owner\\Desktop\\פרויקט לאבוש\\Our-project\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\owner\\Desktop\\WinTech\\DAL\\DAL.csproj": {
+    "C:\\Users\\owner\\Desktop\\פרויקט לאבוש\\Our-project\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\owner\\Desktop\\WinTech\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\owner\\Desktop\\פרויקט לאבוש\\Our-project\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\owner\\Desktop\\WinTech\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\owner\\Desktop\\פרויקט לאבוש\\Our-project\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\owner\\Desktop\\WinTech\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\owner\\Desktop\\פרויקט לאבוש\\Our-project\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
