@@ -1,4 +1,5 @@
-﻿using DAL.Models;
+﻿using DAL.Interfaces;
+using DAL.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Repositories
 {
-    public class הצעת_מחיר_הזמנהDAL
+    public class הצעת_מחיר_הזמנהDAL : Iהצעת_מחיר_הזמנהDAL
     {
         private readonly WinTechContext _context;
 

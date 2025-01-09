@@ -1,4 +1,5 @@
-﻿using DAL.Models;
+﻿using DAL.Interfaces;
+using DAL.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Repositories
 {
-    public class הדבקת_פורזץDAL
+    public class הדבקת_פורזץDAL : Iהדבקת_פורזץDAL
     {
         private readonly WinTechContext _context;
 
@@ -17,26 +18,26 @@ namespace DAL.Repositories
         }
 
         // Create
-        public void AddCustomer(הדבקת_פורזץ הדבקת_פורזץ)
+        public void Addהדבקת_פורזץ(הדבקת_פורזץ הדבקת_פורזץ)
         {
             _context.הדבקת_פורזץs.Add(הדבקת_פורזץ);
             _context.SaveChanges();
         }
 
         // Read (Get by ID)
-        public הדבקת_פורזץ GetלקוחById(int id)
+        public הדבקת_פורזץ Getהדבקת_פורזץById(int id)
         {
             return _context.הדבקת_פורזץs.FirstOrDefault(c => c.מזהה == id);
         }
 
         // Read (Get all הדבקת_פורזץ)
-        public List<הדבקת_פורזץ> GetAllלקוחותs()
+        public List<הדבקת_פורזץ> GetAllהדבקת_פורזץs()
         {
             return _context.הדבקת_פורזץs.ToList();
         }
 
         // Update
-        public void Updateלקוח(הדבקת_פורזץ הדבקת_פורזץ)
+        public void Updateהדבקת_פורזץ(הדבקת_פורזץ הדבקת_פורזץ)
         {
             var existingהדבקת_פורזץ = _context.הדבקת_פורזץs.FirstOrDefault(c => c.מזהה == הדבקת_פורזץ.מזהה);
             if (existingהדבקת_פורזץ != null)

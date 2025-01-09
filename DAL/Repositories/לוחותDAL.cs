@@ -1,4 +1,5 @@
-﻿using DAL.Models;
+﻿using DAL.Interfaces;
+using DAL.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Repositories
 {
-    public class לוחותDAL
+    public class לוחותDAL : IלוחותDAL
     {
         private readonly WinTechContext _context;
 
@@ -29,8 +30,8 @@ namespace DAL.Repositories
             return _context.לוחותs.FirstOrDefault(c => c.מזהה == id);
         }
 
-        // Read (Get all הפקות)
-        public List<לוחות> GetAllהפקותs()
+        // Read (Get all לוחות)
+        public List<לוחות> GetAllלוחותs()
         {
             return _context.לוחותs.ToList();
         }

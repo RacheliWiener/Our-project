@@ -1,4 +1,5 @@
-﻿using DAL.Models;
+﻿using DAL.Interfaces;
+using DAL.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Repositories
 {
-    public class גלופותDAL
+    public class גלופותDAL : IגלופותDAL
     {
         private readonly WinTechContext _context;
 
@@ -36,7 +37,7 @@ namespace DAL.Repositories
         }
 
         // Update
-        public void Updateלקוח(גלופות גלופה)
+        public void Updateגלופה(גלופות גלופה)
         {
             var existingגלופה = _context.גלופותs.FirstOrDefault(c => c.מזהה == גלופה.מזהה);
             if (existingגלופה != null)
@@ -47,7 +48,7 @@ namespace DAL.Repositories
         }
 
         // Delete
-        public void Deleteלקוח(int id)
+        public void Deleteגלופה(int id)
         {
             var גלופהToDelete = _context.גלופותs.FirstOrDefault(c => c.מזהה == id);
             if (גלופהToDelete != null)

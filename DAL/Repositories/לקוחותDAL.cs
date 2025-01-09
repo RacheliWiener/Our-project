@@ -1,4 +1,5 @@
-﻿using DAL.Models;
+﻿using DAL.Interfaces;
+using DAL.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Repositories
 {
-    public class לקוחותDAL
+    public class לקוחותDAL : IלקוחותDAL
     {
         private readonly WinTechContext _context;
 
@@ -18,7 +19,7 @@ namespace DAL.Repositories
         }
 
         // Create
-        public void AddCustomer(לקוחות לקוח)
+        public void Addלקוח(לקוחות לקוח)
         {
             _context.לקוחותs.Add(לקוח);
             _context.SaveChanges();

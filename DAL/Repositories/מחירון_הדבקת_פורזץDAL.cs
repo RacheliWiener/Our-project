@@ -1,4 +1,5 @@
-﻿using DAL.Models;
+﻿using DAL.Interfaces;
+using DAL.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Repositories
 {
-    public class מחירון_הדבקת_פורזץDAL
+    public class מחירון_הדבקת_פורזץDAL : Iמחירון_הדבקת_פורזץDAL
     {
         private readonly WinTechContext _context;
 

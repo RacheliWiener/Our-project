@@ -1,4 +1,5 @@
-﻿using DAL.Models;
+﻿using DAL.Interfaces;
+using DAL.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Repositories
 {
-    public class אריזת_קרטוןDAL
+    public class אריזת_קרטוןDAL : Iאריזת_קרטוןDAL
     {
         private readonly WinTechContext _context;
 
@@ -29,7 +30,7 @@ namespace DAL.Repositories
             return _context.אריזת_קרטוןs.FirstOrDefault(c => c.מזהה == id);
         }
 
-        // Read (Get all customers)
+        // Read (Get all אריזת קרטון)
         public List<אריזת_קרטון> GetAllאריזת_קרטוןs()
         {
             return _context.אריזת_קרטוןs.ToList();
