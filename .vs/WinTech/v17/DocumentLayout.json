@@ -3,6 +3,230 @@
   "WorkspaceRootPath": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\models\\\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\models\\\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\services\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\interfaces\\i\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\i\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\services\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\interfaces\\i\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\i\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\services\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\interfaces\\i\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\i\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\services\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\interfaces\\i\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\i\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\services\\\u05DC\u05E7\u05D5\u05D7\u05D5\u05EAbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\\u05DC\u05E7\u05D5\u05D7\u05D5\u05EAbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\interfaces\\i\u05DC\u05E7\u05D5\u05D7\u05D5\u05EAbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\i\u05DC\u05E7\u05D5\u05D7\u05D5\u05EAbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\services\\\u05DC\u05D9\u05D9\u05DFbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\\u05DC\u05D9\u05D9\u05DFbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\interfaces\\i\u05DC\u05D9\u05D9\u05DFbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\i\u05DC\u05D9\u05D9\u05DFbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\services\\\u05DC\u05D5\u05D7\u05D5\u05EAbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\\u05DC\u05D5\u05D7\u05D5\u05EAbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\interfaces\\i\u05DC\u05D5\u05D7\u05D5\u05EAbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\i\u05DC\u05D5\u05D7\u05D5\u05EAbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\services\\\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\interfaces\\i\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\i\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\services\\\u05D4\u05E9\u05D1\u05D7\u05D5\u05EAbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\\u05D4\u05E9\u05D1\u05D7\u05D5\u05EAbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\interfaces\\i\u05D4\u05E9\u05D1\u05D7\u05D5\u05EAbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\i\u05D4\u05E9\u05D1\u05D7\u05D5\u05EAbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\services\\\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\interfaces\\i\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\i\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\services\\\u05D4\u05E4\u05E7\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\\u05D4\u05E4\u05E7\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\interfaces\\i\u05D4\u05E4\u05E7\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\i\u05D4\u05E4\u05E7\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\services\\\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\interfaces\\i\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\i\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\services\\\u05D4\u05D8\u05D1\u05E2\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\\u05D4\u05D8\u05D1\u05E2\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\interfaces\\i\u05D4\u05D8\u05D1\u05E2\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\i\u05D4\u05D8\u05D1\u05E2\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\services\\\u05D4\u05D3\u05E4\u05E1\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\\u05D4\u05D3\u05E4\u05E1\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\interfaces\\i\u05D4\u05D3\u05E4\u05E1\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\i\u05D4\u05D3\u05E4\u05E1\u05D4bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\services\\\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\interfaces\\i\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\i\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\services\\\u05D2\u05DC\u05D5\u05E4\u05D5\u05EAbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\\u05D2\u05DC\u05D5\u05E4\u05D5\u05EAbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\interfaces\\i\u05D2\u05DC\u05D5\u05E4\u05D5\u05EAbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\i\u05D2\u05DC\u05D5\u05E4\u05D5\u05EAbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\services\\\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\interfaces\\i\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\i\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\models\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\models\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\models\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\models\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\models\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\models\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\models\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\models\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\models\\\u05DC\u05E7\u05D5\u05D7\u05D5\u05EAdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\models\\\u05DC\u05E7\u05D5\u05D7\u05D5\u05EAdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\models\\\u05DC\u05D9\u05D9\u05DFdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\models\\\u05DC\u05D9\u05D9\u05DFdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\models\\\u05D4\u05E4\u05E7\u05D4dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\models\\\u05D4\u05E4\u05E7\u05D4dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\models\\\u05DC\u05D5\u05D7\u05D5\u05EAdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\models\\\u05DC\u05D5\u05D7\u05D5\u05EAdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\models\\\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\models\\\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\models\\\u05D4\u05E9\u05D1\u05D7\u05D5\u05EAdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\models\\\u05D4\u05E9\u05D1\u05D7\u05D5\u05EAdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\models\\\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\models\\\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A959D327-0DE9-4801-86D1-3524D3A5B7FC}|DAL\\DAL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\dal\\repositories\\\u05D4\u05E4\u05E7\u05D4dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A959D327-0DE9-4801-86D1-3524D3A5B7FC}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\\u05D4\u05E4\u05E7\u05D4dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\models\\\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\models\\\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\models\\\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\models\\\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\models\\\u05D4\u05D3\u05E4\u05E1\u05D4dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\models\\\u05D4\u05D3\u05E4\u05E1\u05D4dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\models\\\u05D2\u05DC\u05D5\u05E4\u05D5\u05EAdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\models\\\u05D2\u05DC\u05D5\u05E4\u05D5\u05EAdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A959D327-0DE9-4801-86D1-3524D3A5B7FC}|DAL\\DAL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\dal\\repositories\\\u05D2\u05DC\u05D5\u05E4\u05D5\u05EAdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A959D327-0DE9-4801-86D1-3524D3A5B7FC}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\\u05D2\u05DC\u05D5\u05E4\u05D5\u05EAdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A959D327-0DE9-4801-86D1-3524D3A5B7FC}|DAL\\DAL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\dal\\interfaces\\i\u05D2\u05DC\u05D5\u05E4\u05D5\u05EAdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A959D327-0DE9-4801-86D1-3524D3A5B7FC}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\i\u05D2\u05DC\u05D5\u05E4\u05D5\u05EAdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A959D327-0DE9-4801-86D1-3524D3A5B7FC}|DAL\\DAL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\dal\\repositories\\\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A959D327-0DE9-4801-86D1-3524D3A5B7FC}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5ADAC4C-61DE-4A84-A89B-3D6628F0869C}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A959D327-0DE9-4801-86D1-3524D3A5B7FC}|DAL\\DAL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\dal\\interfaces\\i\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A959D327-0DE9-4801-86D1-3524D3A5B7FC}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\i\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -87,10 +311,6 @@
       "RelativeMoniker": "D:0:0:{A959D327-0DE9-4801-86D1-3524D3A5B7FC}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\i\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A959D327-0DE9-4801-86D1-3524D3A5B7FC}|DAL\\DAL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\dal\\repositories\\\u05D4\u05E4\u05E7\u05D4dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A959D327-0DE9-4801-86D1-3524D3A5B7FC}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\\u05D4\u05E4\u05E7\u05D4dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A959D327-0DE9-4801-86D1-3524D3A5B7FC}|DAL\\DAL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\dal\\interfaces\\i\u05D4\u05E4\u05E7\u05D4dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A959D327-0DE9-4801-86D1-3524D3A5B7FC}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\i\u05D4\u05E4\u05E7\u05D4dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -125,18 +345,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A959D327-0DE9-4801-86D1-3524D3A5B7FC}|DAL\\DAL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\dal\\repositories\\\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A959D327-0DE9-4801-86D1-3524D3A5B7FC}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A959D327-0DE9-4801-86D1-3524D3A5B7FC}|DAL\\DAL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\dal\\repositories\\\u05D2\u05DC\u05D5\u05E4\u05D5\u05EAdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A959D327-0DE9-4801-86D1-3524D3A5B7FC}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\\u05D2\u05DC\u05D5\u05E4\u05D5\u05EAdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A959D327-0DE9-4801-86D1-3524D3A5B7FC}|DAL\\DAL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\dal\\interfaces\\i\u05D2\u05DC\u05D5\u05E4\u05D5\u05EAdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A959D327-0DE9-4801-86D1-3524D3A5B7FC}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\i\u05D2\u05DC\u05D5\u05E4\u05D5\u05EAdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A959D327-0DE9-4801-86D1-3524D3A5B7FC}|DAL\\DAL.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\dal\\repositories\\\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A959D327-0DE9-4801-86D1-3524D3A5B7FC}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B53752DA-EF09-468F-BFAE-F6A7E05B6DB5}|WinTech\\WinTech.csproj|c:\\users\\owner\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\our-project\\wintech\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -181,388 +389,713 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
-              "RelativeToolTip": "DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T17:27:15.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
-              "RelativeToolTip": "DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Title": "I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4BLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4BLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4BLL.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4BLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T17:26:05.325Z",
+              "WhenOpened": "2025-01-13T17:20:40.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
-              "RelativeToolTip": "DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Title": "I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4BLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4BLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4BLL.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4BLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T17:24:44.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
-              "RelativeToolTip": "DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T17:23:11.875Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "\u05DC\u05E7\u05D5\u05D7\u05D5\u05EADAL.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05DC\u05E7\u05D5\u05D7\u05D5\u05EADAL.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05DC\u05E7\u05D5\u05D7\u05D5\u05EADAL.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05DC\u05E7\u05D5\u05D7\u05D5\u05EADAL.cs",
-              "RelativeToolTip": "DAL\\Repositories\\\u05DC\u05E7\u05D5\u05D7\u05D5\u05EADAL.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAsAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T17:21:46.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "\u05DC\u05D9\u05D9\u05DFDAL.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05DC\u05D9\u05D9\u05DFDAL.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05DC\u05D9\u05D9\u05DFDAL.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05DC\u05D9\u05D9\u05DFDAL.cs",
-              "RelativeToolTip": "DAL\\Repositories\\\u05DC\u05D9\u05D9\u05DFDAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T17:20:00.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "I\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFDAL.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFDAL.cs",
-              "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFDAL.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFDAL.cs",
-              "RelativeToolTip": "DAL\\Interfaces\\I\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFDAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:27:35.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "\u05DC\u05D5\u05D7\u05D5\u05EADAL.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05DC\u05D5\u05D7\u05D5\u05EADAL.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05DC\u05D5\u05D7\u05D5\u05EADAL.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05DC\u05D5\u05D7\u05D5\u05EADAL.cs",
-              "RelativeToolTip": "DAL\\Repositories\\\u05DC\u05D5\u05D7\u05D5\u05EADAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T17:17:30.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
-              "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
-              "RelativeToolTip": "DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:41:31.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "I\u05DC\u05D5\u05D7\u05D5\u05EADAL.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05DC\u05D5\u05D7\u05D5\u05EADAL.cs",
-              "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05DC\u05D5\u05D7\u05D5\u05EADAL.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05DC\u05D5\u05D7\u05D5\u05EADAL.cs",
-              "RelativeToolTip": "DAL\\Interfaces\\I\u05DC\u05D5\u05D7\u05D5\u05EADAL.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:36:13.45Z",
+              "WhenOpened": "2025-01-13T17:18:56.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
-              "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
-              "RelativeToolTip": "DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Title": "\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4BLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4BLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4BLL.cs",
+              "RelativeToolTip": "BLL\\Services\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4BLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:40:46.451Z",
+              "WhenOpened": "2025-01-13T16:47:15.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
-              "RelativeToolTip": "DAL\\Repositories\\\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAIwAoAAAA5AAAA",
+              "DocumentIndex": 2,
+              "Title": "\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4BLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4BLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4BLL.cs",
+              "RelativeToolTip": "BLL\\Services\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4BLL.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA0AAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T17:16:22.114Z",
+              "WhenOpened": "2025-01-13T16:48:42.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFDto.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFDto.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFDto.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFDto.cs",
+              "RelativeToolTip": "BLL\\Models\\\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:09:57.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "BLL\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "BLL\\Mappings\\MappingProfile.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwCQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:28:40.433Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
-              "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
-              "RelativeToolTip": "DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Title": "\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4BLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4BLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4BLL.cs",
+              "RelativeToolTip": "BLL\\Services\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4BLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:39:37.483Z",
+              "WhenOpened": "2025-01-13T16:44:36.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "\u05D4\u05E9\u05D1\u05D7\u05D5\u05EADAL.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D4\u05E9\u05D1\u05D7\u05D5\u05EADAL.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05D4\u05E9\u05D1\u05D7\u05D5\u05EADAL.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D4\u05E9\u05D1\u05D7\u05D5\u05EADAL.cs",
-              "RelativeToolTip": "DAL\\Repositories\\\u05D4\u05E9\u05D1\u05D7\u05D5\u05EADAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "DocumentIndex": 7,
+              "Title": "I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4BLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4BLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4BLL.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4BLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T17:15:10.061Z",
+              "WhenOpened": "2025-01-13T17:17:13.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
-              "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
-              "RelativeToolTip": "DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Title": "\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5BLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5BLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5BLL.cs",
+              "RelativeToolTip": "BLL\\Services\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5BLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwA0AAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:37:35.633Z",
+              "WhenOpened": "2025-01-13T16:41:43.673Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4DAL.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4DAL.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4DAL.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4DAL.cs",
-              "RelativeToolTip": "DAL\\Repositories\\\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4DAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "DocumentIndex": 9,
+              "Title": "I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5BLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5BLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5BLL.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5BLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T17:13:50.513Z",
+              "WhenOpened": "2025-01-13T17:15:36.576Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "I\u05DC\u05E7\u05D5\u05D7\u05D5\u05EADAL.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05DC\u05E7\u05D5\u05D7\u05D5\u05EADAL.cs",
-              "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05DC\u05E7\u05D5\u05D7\u05D5\u05EADAL.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05DC\u05E7\u05D5\u05D7\u05D5\u05EADAL.cs",
-              "RelativeToolTip": "DAL\\Interfaces\\I\u05DC\u05E7\u05D5\u05D7\u05D5\u05EADAL.cs",
+              "Title": "\u05DC\u05E7\u05D5\u05D7\u05D5\u05EABLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05DC\u05E7\u05D5\u05D7\u05D5\u05EABLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\\u05DC\u05E7\u05D5\u05D7\u05D5\u05EABLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05DC\u05E7\u05D5\u05D7\u05D5\u05EABLL.cs",
+              "RelativeToolTip": "BLL\\Services\\\u05DC\u05E7\u05D5\u05D7\u05D5\u05EABLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:37:39.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "I\u05DC\u05E7\u05D5\u05D7\u05D5\u05EABLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05DC\u05E7\u05D5\u05D7\u05D5\u05EABLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\I\u05DC\u05E7\u05D5\u05D7\u05D5\u05EABLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05DC\u05E7\u05D5\u05D7\u05D5\u05EABLL.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\I\u05DC\u05E7\u05D5\u05D7\u05D5\u05EABLL.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:37:14.618Z",
+              "WhenOpened": "2025-01-13T17:13:55.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "\u05DC\u05D9\u05D9\u05DFBLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05DC\u05D9\u05D9\u05DFBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\\u05DC\u05D9\u05D9\u05DFBLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05DC\u05D9\u05D9\u05DFBLL.cs",
+              "RelativeToolTip": "BLL\\Services\\\u05DC\u05D9\u05D9\u05DFBLL.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:35:41.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "I\u05DC\u05D9\u05D9\u05DFBLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05DC\u05D9\u05D9\u05DFBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\I\u05DC\u05D9\u05D9\u05DFBLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05DC\u05D9\u05D9\u05DFBLL.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\I\u05DC\u05D9\u05D9\u05DFBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:12:04.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "\u05DC\u05D5\u05D7\u05D5\u05EABLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05DC\u05D5\u05D7\u05D5\u05EABLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\\u05DC\u05D5\u05D7\u05D5\u05EABLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05DC\u05D5\u05D7\u05D5\u05EABLL.cs",
+              "RelativeToolTip": "BLL\\Services\\\u05DC\u05D5\u05D7\u05D5\u05EABLL.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:28:27.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "I\u05DC\u05D5\u05D7\u05D5\u05EABLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05DC\u05D5\u05D7\u05D5\u05EABLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\I\u05DC\u05D5\u05D7\u05D5\u05EABLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05DC\u05D5\u05D7\u05D5\u05EABLL.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\I\u05DC\u05D5\u05D7\u05D5\u05EABLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:10:06.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4BLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4BLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4BLL.cs",
+              "RelativeToolTip": "BLL\\Services\\\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4BLL.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:22:19.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "I\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4BLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\I\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4BLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4BLL.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\I\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4BLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:08:15.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "\u05D4\u05E9\u05D1\u05D7\u05D5\u05EABLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05D4\u05E9\u05D1\u05D7\u05D5\u05EABLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\\u05D4\u05E9\u05D1\u05D7\u05D5\u05EABLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05D4\u05E9\u05D1\u05D7\u05D5\u05EABLL.cs",
+              "RelativeToolTip": "BLL\\Services\\\u05D4\u05E9\u05D1\u05D7\u05D5\u05EABLL.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:19:03.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "I\u05D4\u05E9\u05D1\u05D7\u05D5\u05EABLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05D4\u05E9\u05D1\u05D7\u05D5\u05EABLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\I\u05D4\u05E9\u05D1\u05D7\u05D5\u05EABLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05D4\u05E9\u05D1\u05D7\u05D5\u05EABLL.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\I\u05D4\u05E9\u05D1\u05D7\u05D5\u05EABLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:06:06.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4BLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4BLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4BLL.cs",
+              "RelativeToolTip": "BLL\\Services\\\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4BLL.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:16:23.435Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
+              "Title": "I\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4BLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\I\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4BLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4BLL.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\I\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4BLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:04:16.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "I\u05D4\u05E4\u05E7\u05D4BLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05D4\u05E4\u05E7\u05D4BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\I\u05D4\u05E4\u05E7\u05D4BLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05D4\u05E4\u05E7\u05D4BLL.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\I\u05D4\u05E4\u05E7\u05D4BLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:02:14.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDBLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDBLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDBLL.cs",
+              "RelativeToolTip": "BLL\\Services\\\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDBLL.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:06:01.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "I\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDBLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\I\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDBLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDBLL.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\I\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:00:35.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "\u05D4\u05D8\u05D1\u05E2\u05D4BLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05D4\u05D8\u05D1\u05E2\u05D4BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\\u05D4\u05D8\u05D1\u05E2\u05D4BLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05D4\u05D8\u05D1\u05E2\u05D4BLL.cs",
+              "RelativeToolTip": "BLL\\Services\\\u05D4\u05D8\u05D1\u05E2\u05D4BLL.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:50:03.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "I\u05D4\u05D8\u05D1\u05E2\u05D4BLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05D4\u05D8\u05D1\u05E2\u05D4BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\I\u05D4\u05D8\u05D1\u05E2\u05D4BLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05D4\u05D8\u05D1\u05E2\u05D4BLL.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\I\u05D4\u05D8\u05D1\u05E2\u05D4BLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:58:43.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "\u05D4\u05D3\u05E4\u05E1\u05D4BLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05D4\u05D3\u05E4\u05E1\u05D4BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\\u05D4\u05D3\u05E4\u05E1\u05D4BLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05D4\u05D3\u05E4\u05E1\u05D4BLL.cs",
+              "RelativeToolTip": "BLL\\Services\\\u05D4\u05D3\u05E4\u05E1\u05D4BLL.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:43:53.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "\u05D4\u05E4\u05E7\u05D4BLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05D4\u05E4\u05E7\u05D4BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\\u05D4\u05E4\u05E7\u05D4BLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05D4\u05E4\u05E7\u05D4BLL.cs",
+              "RelativeToolTip": "BLL\\Services\\\u05D4\u05E4\u05E7\u05D4BLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:08:56.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "I\u05D4\u05D3\u05E4\u05E1\u05D4BLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05D4\u05D3\u05E4\u05E1\u05D4BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\I\u05D4\u05D3\u05E4\u05E1\u05D4BLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05D4\u05D3\u05E4\u05E1\u05D4BLL.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\I\u05D4\u05D3\u05E4\u05E1\u05D4BLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:57:24.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5BLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5BLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5BLL.cs",
+              "RelativeToolTip": "BLL\\Services\\\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5BLL.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:32:24.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "I\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5BLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5BLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\I\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5BLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5BLL.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\I\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5BLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:55:40.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "\u05D2\u05DC\u05D5\u05E4\u05D5\u05EABLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05D2\u05DC\u05D5\u05E4\u05D5\u05EABLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\\u05D2\u05DC\u05D5\u05E4\u05D5\u05EABLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05D2\u05DC\u05D5\u05E4\u05D5\u05EABLL.cs",
+              "RelativeToolTip": "BLL\\Services\\\u05D2\u05DC\u05D5\u05E4\u05D5\u05EABLL.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:20:34.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "I\u05D2\u05DC\u05D5\u05E4\u05D5\u05EABLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05D2\u05DC\u05D5\u05E4\u05D5\u05EABLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\I\u05D2\u05DC\u05D5\u05E4\u05D5\u05EABLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05D2\u05DC\u05D5\u05E4\u05D5\u05EABLL.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\I\u05D2\u05DC\u05D5\u05E4\u05D5\u05EABLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:54:04.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFBLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFBLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Services\\\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFBLL.cs",
+              "RelativeToolTip": "BLL\\Services\\\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFBLL.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:20:21.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "I\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFBLL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\I\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFBLL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Interfaces\\I\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFBLL.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\I\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:51:52.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4Dto.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4Dto.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4Dto.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4Dto.cs",
+              "RelativeToolTip": "BLL\\Models\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4Dto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:48:19.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4Dto.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4Dto.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4Dto.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4Dto.cs",
+              "RelativeToolTip": "BLL\\Models\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4Dto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:46:14.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4Dto.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4Dto.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4Dto.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4Dto.cs",
+              "RelativeToolTip": "BLL\\Models\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4Dto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:44:13.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5Dto.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5Dto.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5Dto.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5Dto.cs",
+              "RelativeToolTip": "BLL\\Models\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5Dto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:40:56.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "\u05DC\u05E7\u05D5\u05D7\u05D5\u05EADto.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05DC\u05E7\u05D5\u05D7\u05D5\u05EADto.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\\u05DC\u05E7\u05D5\u05D7\u05D5\u05EADto.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05DC\u05E7\u05D5\u05D7\u05D5\u05EADto.cs",
+              "RelativeToolTip": "BLL\\Models\\\u05DC\u05E7\u05D5\u05D7\u05D5\u05EADto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:37:15.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "\u05DC\u05D9\u05D9\u05DFDto.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05DC\u05D9\u05D9\u05DFDto.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\\u05DC\u05D9\u05D9\u05DFDto.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05DC\u05D9\u05D9\u05DFDto.cs",
+              "RelativeToolTip": "BLL\\Models\\\u05DC\u05D9\u05D9\u05DFDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:35:13.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "\u05DC\u05D5\u05D7\u05D5\u05EADto.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05DC\u05D5\u05D7\u05D5\u05EADto.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\\u05DC\u05D5\u05D7\u05D5\u05EADto.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05DC\u05D5\u05D7\u05D5\u05EADto.cs",
+              "RelativeToolTip": "BLL\\Models\\\u05DC\u05D5\u05D7\u05D5\u05EADto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:27:53.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4Dto.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4Dto.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4Dto.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4Dto.cs",
+              "RelativeToolTip": "BLL\\Models\\\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4Dto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:21:52.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "\u05D4\u05E4\u05E7\u05D4Dto.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05D4\u05E4\u05E7\u05D4Dto.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\\u05D4\u05E4\u05E7\u05D4Dto.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05D4\u05E4\u05E7\u05D4Dto.cs",
+              "RelativeToolTip": "BLL\\Models\\\u05D4\u05E4\u05E7\u05D4Dto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:08:28.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "\u05D4\u05E9\u05D1\u05D7\u05D5\u05EADto.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05D4\u05E9\u05D1\u05D7\u05D5\u05EADto.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\\u05D4\u05E9\u05D1\u05D7\u05D5\u05EADto.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05D4\u05E9\u05D1\u05D7\u05D5\u05EADto.cs",
+              "RelativeToolTip": "BLL\\Models\\\u05D4\u05E9\u05D1\u05D7\u05D5\u05EADto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:18:23.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4Dto.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4Dto.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4Dto.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4Dto.cs",
+              "RelativeToolTip": "BLL\\Models\\\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4Dto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:15:35.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDDto.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDDto.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDDto.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDDto.cs",
+              "RelativeToolTip": "BLL\\Models\\\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:05:29.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5Dto.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5Dto.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5Dto.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5Dto.cs",
+              "RelativeToolTip": "BLL\\Models\\\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5Dto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:31:29.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
               "Title": "\u05D4\u05E4\u05E7\u05D4DAL.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D4\u05E4\u05E7\u05D4DAL.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\\u05D4\u05E4\u05E7\u05D4DAL.cs",
               "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D4\u05E4\u05E7\u05D4DAL.cs",
               "RelativeToolTip": "DAL\\Repositories\\\u05D4\u05E4\u05E7\u05D4DAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCEAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T17:12:27.194Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "I\u05DC\u05D9\u05D9\u05DFDAL.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05DC\u05D9\u05D9\u05DFDAL.cs",
-              "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05DC\u05D9\u05D9\u05DFDAL.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05DC\u05D9\u05D9\u05DFDAL.cs",
-              "RelativeToolTip": "DAL\\Interfaces\\I\u05DC\u05D9\u05D9\u05DFDAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "DocumentIndex": 50,
+              "Title": "\u05D4\u05D3\u05E4\u05E1\u05D4Dto.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05D4\u05D3\u05E4\u05E1\u05D4Dto.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\\u05D4\u05D3\u05E4\u05E1\u05D4Dto.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05D4\u05D3\u05E4\u05E1\u05D4Dto.cs",
+              "RelativeToolTip": "BLL\\Models\\\u05D4\u05D3\u05E4\u05E1\u05D4Dto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:36:30.815Z",
+              "WhenOpened": "2025-01-13T15:43:17.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDDAL.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDDAL.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDDAL.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDDAL.cs",
-              "RelativeToolTip": "DAL\\Repositories\\\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDDAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "DocumentIndex": 51,
+              "Title": "\u05D2\u05DC\u05D5\u05E4\u05D5\u05EADto.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05D2\u05DC\u05D5\u05E4\u05D5\u05EADto.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\\u05D2\u05DC\u05D5\u05E4\u05D5\u05EADto.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Models\\\u05D2\u05DC\u05D5\u05E4\u05D5\u05EADto.cs",
+              "RelativeToolTip": "BLL\\Models\\\u05D2\u05DC\u05D5\u05E4\u05D5\u05EADto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T17:10:05.416Z",
+              "WhenOpened": "2025-01-13T13:12:15.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
-              "RelativeToolTip": "DAL\\Repositories\\\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T17:08:34.45Z",
+              "DocumentIndex": 55,
+              "Title": "BLL",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\BLL.csproj",
+              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\BLL.csproj",
+              "RelativeToolTip": "BLL\\BLL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-13T12:21:33.181Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "I\u05D4\u05E4\u05E7\u05D4DAL.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05D4\u05E4\u05E7\u05D4DAL.cs",
-              "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05D4\u05E4\u05E7\u05D4DAL.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05D4\u05E4\u05E7\u05D4DAL.cs",
-              "RelativeToolTip": "DAL\\Interfaces\\I\u05D4\u05E4\u05E7\u05D4DAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:33:18.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "I\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
-              "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
-              "RelativeToolTip": "DAL\\Interfaces\\I\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:35:44.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
-              "RelativeToolTip": "DAL\\Repositories\\\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T17:05:36.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "I\u05D4\u05E9\u05D1\u05D7\u05D5\u05EADAL.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05D4\u05E9\u05D1\u05D7\u05D5\u05EADAL.cs",
-              "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05D4\u05E9\u05D1\u05D7\u05D5\u05EADAL.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05D4\u05E9\u05D1\u05D7\u05D5\u05EADAL.cs",
-              "RelativeToolTip": "DAL\\Interfaces\\I\u05D4\u05E9\u05D1\u05D7\u05D5\u05EADAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:34:44.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "I\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
-              "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
-              "RelativeToolTip": "DAL\\Interfaces\\I\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:31:26.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "I\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4DAL.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4DAL.cs",
-              "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4DAL.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4DAL.cs",
-              "RelativeToolTip": "DAL\\Interfaces\\I\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4DAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:34:02.179Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
-              "RelativeToolTip": "DAL\\Repositories\\\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:54:38.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 52,
               "Title": "\u05D2\u05DC\u05D5\u05E4\u05D5\u05EADAL.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D2\u05DC\u05D5\u05E4\u05D5\u05EADAL.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\\u05D2\u05DC\u05D5\u05E4\u05D5\u05EADAL.cs",
               "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D2\u05DC\u05D5\u05E4\u05D5\u05EADAL.cs",
               "RelativeToolTip": "DAL\\Repositories\\\u05D2\u05DC\u05D5\u05E4\u05D5\u05EADAL.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwAoAAAAnAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwDoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T16:44:16.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 53,
               "Title": "I\u05D2\u05DC\u05D5\u05E4\u05D5\u05EADAL.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05D2\u05DC\u05D5\u05E4\u05D5\u05EADAL.cs",
               "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05D2\u05DC\u05D5\u05E4\u05D5\u05EADAL.cs",
@@ -575,7 +1108,379 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 59,
+              "Title": "\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
+              "RelativeToolTip": "DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:26:05.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFDAL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFDAL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFDAL.cs",
+              "RelativeToolTip": "DAL\\Repositories\\\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:41:35.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
+              "RelativeToolTip": "DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:27:15.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
+              "RelativeToolTip": "DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:24:44.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
+              "RelativeToolTip": "DAL\\Repositories\\\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:23:11.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "\u05DC\u05E7\u05D5\u05D7\u05D5\u05EADAL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05DC\u05E7\u05D5\u05D7\u05D5\u05EADAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05DC\u05E7\u05D5\u05D7\u05D5\u05EADAL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05DC\u05E7\u05D5\u05D7\u05D5\u05EADAL.cs",
+              "RelativeToolTip": "DAL\\Repositories\\\u05DC\u05E7\u05D5\u05D7\u05D5\u05EADAL.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIBJwAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:21:46.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "\u05DC\u05D9\u05D9\u05DFDAL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05DC\u05D9\u05D9\u05DFDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05DC\u05D9\u05D9\u05DFDAL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05DC\u05D9\u05D9\u05DFDAL.cs",
+              "RelativeToolTip": "DAL\\Repositories\\\u05DC\u05D9\u05D9\u05DFDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:20:00.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "I\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFDAL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFDAL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFDAL.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\I\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:27:35.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "\u05DC\u05D5\u05D7\u05D5\u05EADAL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05DC\u05D5\u05D7\u05D5\u05EADAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05DC\u05D5\u05D7\u05D5\u05EADAL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05DC\u05D5\u05D7\u05D5\u05EADAL.cs",
+              "RelativeToolTip": "DAL\\Repositories\\\u05DC\u05D5\u05D7\u05D5\u05EADAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:17:30.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:41:31.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "I\u05DC\u05D5\u05D7\u05D5\u05EADAL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05DC\u05D5\u05D7\u05D5\u05EADAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05DC\u05D5\u05D7\u05D5\u05EADAL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05DC\u05D5\u05D7\u05D5\u05EADAL.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\I\u05DC\u05D5\u05D7\u05D5\u05EADAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:36:13.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:40:46.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
+              "RelativeToolTip": "DAL\\Repositories\\\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:16:22.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:39:37.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "\u05D4\u05E9\u05D1\u05D7\u05D5\u05EADAL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D4\u05E9\u05D1\u05D7\u05D5\u05EADAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05D4\u05E9\u05D1\u05D7\u05D5\u05EADAL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D4\u05E9\u05D1\u05D7\u05D5\u05EADAL.cs",
+              "RelativeToolTip": "DAL\\Repositories\\\u05D4\u05E9\u05D1\u05D7\u05D5\u05EADAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:15:10.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\I\u05DE\u05D7\u05D9\u05E8\u05D5\u05DF_\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:37:35.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4DAL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4DAL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4DAL.cs",
+              "RelativeToolTip": "DAL\\Repositories\\\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:13:50.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "I\u05DC\u05E7\u05D5\u05D7\u05D5\u05EADAL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05DC\u05E7\u05D5\u05D7\u05D5\u05EADAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05DC\u05E7\u05D5\u05D7\u05D5\u05EADAL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05DC\u05E7\u05D5\u05D7\u05D5\u05EADAL.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\I\u05DC\u05E7\u05D5\u05D7\u05D5\u05EADAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:37:14.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "I\u05DC\u05D9\u05D9\u05DFDAL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05DC\u05D9\u05D9\u05DFDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05DC\u05D9\u05D9\u05DFDAL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05DC\u05D9\u05D9\u05DFDAL.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\I\u05DC\u05D9\u05D9\u05DFDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:36:30.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDDAL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDDAL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDDAL.cs",
+              "RelativeToolTip": "DAL\\Repositories\\\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:10:05.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
+              "RelativeToolTip": "DAL\\Repositories\\\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:08:34.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "I\u05D4\u05E4\u05E7\u05D4DAL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05D4\u05E4\u05E7\u05D4DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05D4\u05E4\u05E7\u05D4DAL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05D4\u05E4\u05E7\u05D4DAL.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\I\u05D4\u05E4\u05E7\u05D4DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:33:18.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "I\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\I\u05D9\u05D9\u05E6\u05D5\u05E8_\u05DB\u05E8\u05D9\u05DB\u05D4_\u05E7\u05E9\u05D4DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:35:44.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
+              "RelativeToolTip": "DAL\\Repositories\\\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:05:36.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "I\u05D4\u05E9\u05D1\u05D7\u05D5\u05EADAL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05D4\u05E9\u05D1\u05D7\u05D5\u05EADAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05D4\u05E9\u05D1\u05D7\u05D5\u05EADAL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05D4\u05E9\u05D1\u05D7\u05D5\u05EADAL.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\I\u05D4\u05E9\u05D1\u05D7\u05D5\u05EADAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:34:44.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "I\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\I\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:31:26.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "I\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4DAL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4DAL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4DAL.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\I\u05D4\u05E6\u05E2\u05EA_\u05DE\u05D7\u05D9\u05E8_\u05D4\u05D6\u05DE\u05E0\u05D4DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:34:02.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
+              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
+              "RelativeToolTip": "DAL\\Repositories\\\u05D4\u05D3\u05D1\u05E7\u05EA_\u05E4\u05D5\u05E8\u05D6\u05E5DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:54:38.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
               "Title": "I\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDDAL.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDDAL.cs",
               "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05D4\u05DB\u05E0\u05EA_\u05E1\u05D8\u05D9\u05DDDAL.cs",
@@ -588,20 +1493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFDAL.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFDAL.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFDAL.cs",
-              "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Repositories\\\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFDAL.cs",
-              "RelativeToolTip": "DAL\\Repositories\\\u05D0\u05E8\u05D9\u05D6\u05EA_\u05E7\u05E8\u05D8\u05D5\u05DFDAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:41:35.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 81,
               "Title": "I\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
               "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05D4\u05D8\u05D1\u05E2\u05D4DAL.cs",
@@ -614,7 +1506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 83,
               "Title": "I\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Interfaces\\I\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
               "RelativeDocumentMoniker": "DAL\\Interfaces\\I\u05D4\u05D3\u05E4\u05E1\u05D4DAL.cs",
@@ -626,16 +1518,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 87,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\UI\\Class1.cs",
               "RelativeDocumentMoniker": "UI\\Class1.cs",
@@ -643,11 +1527,12 @@
               "RelativeToolTip": "UI\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T16:42:32.713Z"
+              "WhenOpened": "2025-01-06T16:42:32.713Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 88,
               "Title": "DAL.csproj",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\DAL.csproj",
               "RelativeDocumentMoniker": "DAL\\DAL.csproj",
@@ -655,11 +1540,12 @@
               "RelativeToolTip": "DAL\\DAL.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-06T16:38:02.473Z"
+              "WhenOpened": "2025-01-06T16:38:02.473Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 90,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\DAL\\Class1.cs",
               "RelativeDocumentMoniker": "DAL\\Class1.cs",
@@ -667,11 +1553,12 @@
               "RelativeToolTip": "DAL\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T15:28:38.944Z"
+              "WhenOpened": "2024-12-17T15:28:38.944Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 89,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\BLL\\Class1.cs",
               "RelativeDocumentMoniker": "BLL\\Class1.cs",
@@ -679,11 +1566,12 @@
               "RelativeToolTip": "BLL\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T15:29:10.28Z"
+              "WhenOpened": "2024-12-17T15:29:10.28Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 86,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\WinTech\\appsettings.json",
               "RelativeDocumentMoniker": "WinTech\\appsettings.json",
@@ -696,7 +1584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 94,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\WinTech\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "WinTech\\Properties\\launchSettings.json",
@@ -704,22 +1592,24 @@
               "RelativeToolTip": "WinTech\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-06T15:49:12.453Z"
+              "WhenOpened": "2025-01-06T15:49:12.453Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 92,
               "Title": "WinTech",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\WinTech\\WinTech.csproj",
               "RelativeDocumentMoniker": "WinTech\\WinTech.csproj",
               "ToolTip": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\WinTech\\WinTech.csproj",
               "RelativeToolTip": "WinTech\\WinTech.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-06T15:59:41.009Z"
+              "WhenOpened": "2025-01-06T15:59:41.009Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 91,
               "Title": "DAL.csproj.CoreCompileInputs.cache",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\WinTech\\DAL\\obj\\Debug\\DAL.csproj.CoreCompileInputs.cache",
               "RelativeDocumentMoniker": "..\\..\\WinTech\\DAL\\obj\\Debug\\DAL.csproj.CoreCompileInputs.cache",
@@ -730,7 +1620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 93,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\owner\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DC\u05D0\u05D1\u05D5\u05E9\\Our-project\\WinTech\\Program.cs",
               "RelativeDocumentMoniker": "WinTech\\Program.cs",
@@ -738,7 +1628,8 @@
               "RelativeToolTip": "WinTech\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T13:42:59.37Z"
+              "WhenOpened": "2025-01-06T13:42:59.37Z",
+              "EditorCaption": ""
             }
           ]
         }
