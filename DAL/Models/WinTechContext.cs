@@ -1,18 +1,24 @@
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+
+
+
 
 namespace DAL.Models;
 
 public partial class WinTechContext : DbContext
 {
+    private readonly IConfiguration _configuration;
     public WinTechContext()
     {
     }
 
-    public WinTechContext(DbContextOptions<WinTechContext> options)
+    public WinTechContext(DbContextOptions<WinTechContext> options, IConfiguration configuration)
         : base(options)
     {
+        _configuration = configuration;
     }
 
     public virtual DbSet<אריזת_קרטון> אריזת_קרטוןs { get; set; }
@@ -92,9 +98,13 @@ public partial class WinTechContext : DbContext
     public virtual DbSet<שונות> שונותs { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Data Source=wintechserver.database.windows.net;Initial Catalog=WinTech;User ID=RacheliWiener;Password=juhfvi&rjkhuhbr03;Trust Server Certificate=True;Encrypt=True;MultipleActiveResultSets=True;");
-
+    {
+        if (!optionsBuilder.IsConfigured)
+        {
+            var connectionString = _configuration.GetConnectionString("DefaultConnection");
+            optionsBuilder.UseSqlServer(connectionString);
+        }
+    }
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<אריזת_קרטון>(entity =>

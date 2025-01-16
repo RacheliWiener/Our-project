@@ -19,6 +19,3 @@ C:\Users\owner\Desktop\פרויקט לאבוש\Our-project\BLL\obj\Debug\net8.0\
 C:\Users\owner\Desktop\פרויקט לאבוש\Our-project\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
 C:\Users\owner\Desktop\פרויקט לאבוש\Our-project\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
 C:\Users\owner\Desktop\פרויקט לאבוש\Our-project\BLL\obj\Debug\net8.0\BLL.sourcelink.json
-C:\Users\owner\Desktop\פרויקט לאבוש\Our-project\BLL\obj\Debug\net8.0\BLL.dll
-C:\Users\owner\Desktop\פרויקט לאבוש\Our-project\BLL\obj\Debug\net8.0\refint\BLL.dll
-C:\Users\owner\Desktop\פרויקט לאבוש\Our-project\BLL\obj\Debug\net8.0\BLL.pdb

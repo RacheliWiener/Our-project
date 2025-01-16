@@ -16,6 +16,3 @@ C:\Users\owner\Desktop\פרויקט לאבוש\Our-project\DAL\obj\Debug\net8.0\
 C:\Users\owner\Desktop\פרויקט לאבוש\Our-project\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
 C:\Users\owner\Desktop\פרויקט לאבוש\Our-project\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
 C:\Users\owner\Desktop\פרויקט לאבוש\Our-project\DAL\obj\Debug\net8.0\DAL.sourcelink.json
-C:\Users\owner\Desktop\פרויקט לאבוש\Our-project\DAL\obj\Debug\net8.0\DAL.dll
-C:\Users\owner\Desktop\פרויקט לאבוש\Our-project\DAL\obj\Debug\net8.0\refint\DAL.dll
-C:\Users\owner\Desktop\פרויקט לאבוש\Our-project\DAL\obj\Debug\net8.0\DAL.pdb
