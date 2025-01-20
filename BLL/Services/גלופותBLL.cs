@@ -14,6 +14,8 @@ namespace BLL.Services
 {
     public class גלופותBLL : IגלופותBLL
     {
+
+        #region Fields
         private readonly גלופותDAL _repository;
         private readonly IMapper _mapper;
 
@@ -22,6 +24,9 @@ namespace BLL.Services
             _repository = repository;
             _mapper = mapper;
         }
+        #endregion
+
+        # region CRUD Operations
 
         public void Addגלופה(גלופותDto גלופהDto)
         {
@@ -58,6 +63,23 @@ namespace BLL.Services
             _repository.Deleteגלופה(id);
 
         }
+        #endregion
+
+        #region Calculation Functions
+        public int Calculateסנטימטר_רבוע(int id)
+        {
+            var SampleGlufa = GetגלופהById(id);
+            int result = (int)SampleGlufa.אורך * (int)SampleGlufa.רוחב;
+            return result;
+        }
+
+        public double Calculateסהכ_מחיר_גלופות(int id)
+        {
+            var SampleGlufa = GetגלופהById(id);
+            double result = (double)SampleGlufa.מחיר * (int)Calculateסנטימטר_רבוע(id);
+            return result;
+        }
+        #endregion
 
 
     }

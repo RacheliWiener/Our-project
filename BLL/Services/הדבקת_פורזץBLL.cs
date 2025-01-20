@@ -13,8 +13,13 @@ namespace BLL.Services
 {
     public class הדבקת_פורזץBLL : Iהדבקת_פורזץBLL
     {
+        #region Fields
         private readonly הדבקת_פורזץDAL _repository;
         private readonly IMapper _mapper;
+
+        #endregion
+
+        #region CRUD Operations
 
         public הדבקת_פורזץBLL(הדבקת_פורזץDAL repository, IMapper mapper)
         {
@@ -55,8 +60,26 @@ namespace BLL.Services
         public void Deleteהדבקת_פורזץ(int id)
         {
             _repository.Deleteהדבקת_פורזץ(id);
+        }
+        #endregion
+
+        #region Calculation Functions
+
+        public int Calculateעותקים_לחיוב(int id)
+        {
+            var SampleH_F = Getהדבקת_פורזץById(id);
+            int result = SampleH_F.עותקים > 700 ? (int)SampleH_F.עותקים : 700;
+            return result;
 
         }
+
+        public double Calculateסהכ_מחיר_הדבקת_פורזץ(int id)
+        {
+            var SampleH_F = Getהדבקת_פורזץById(id);
+            double result = (int)Calculateעותקים_לחיוב(id) * (double)SampleH_F.מחיר;
+            return result;
+        }
+        #endregion
 
     }
 }
